@@ -15,7 +15,7 @@ console.log(upi);
 console.log("Latest Update");
 
 // I am fixing some Bug
-console.log("Bug Fixed");
+console.log("Bug Fixed successfully");
 
 console.log('hello world')
 console,log('git leaning is the repo name')
